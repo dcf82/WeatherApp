@@ -26,6 +26,9 @@ In Maven:<br />
 `  <type>pom</type>`<br />
 `</dependency>`<br />**
 
+If you want to create your personal aar module, please visit the following url for full details:<br />
+http://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en <br />
+
 # Sample 1
 ![](https://github.com/dcf82/WeatherApp/blob/master/img1.png)
 

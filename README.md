@@ -16,13 +16,13 @@ This is a library module published in **jcenter** repositories & a sample applic
 To add the library to your personal project, add the following lines to your project:
 
 In your build.gradle:<br />
-**compile 'com.weather.app:WeatherLibrary:1.0.2'**<br />
+**compile 'com.github.dcf82:Weather:1.0.0'**<br />
 
 In Maven:<br />
 **`<dependency>`<br />
-`  <groupId>com.weather.app</groupId>`<br />
-`  <artifactId>WeatherLibrary</artifactId>`<br />
-`  <version>1.0.2</version>`<br />
+`  <groupId>com.github.dcf82</groupId>`<br />
+`  <artifactId>Weather</artifactId>`<br />
+`  <version>1.0.0</version>`<br />
 `  <type>pom</type>`<br />
 `</dependency>`<br />**
 

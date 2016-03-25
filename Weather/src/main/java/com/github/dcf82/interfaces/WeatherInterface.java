@@ -9,7 +9,7 @@ import retrofit.http.Query;
 
 /**
  * @author David Castillo Fuentes
- * Interface file used by Retrofit to handle Restful requests for Weather & Forecast data
+ * Interface file used by Retrofit to handle Restful requests for Weather and Forecast data
  */
 public interface WeatherInterface {
 

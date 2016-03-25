@@ -30,7 +30,7 @@ import com.github.dcf82.location.LocationServicesHelper;
  * @author David Castillo Fuentes
  * This is the base class that contains the base implementation of location services
  * which can be used everywhere, the child class just need to implemente couple of callback
- * methods to get notifications about location changes & other functionalities
+ * methods to get notifications about location changes and other functionalities
  */
 public abstract class BaseFragment extends Fragment implements LocationListener, GoogleApiClient
         .ConnectionCallbacks,GoogleApiClient.OnConnectionFailedListener {

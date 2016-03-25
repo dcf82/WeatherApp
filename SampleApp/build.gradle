@@ -25,5 +25,5 @@ dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
 
     // Dependency Module
-    compile project(':Weather')
+    compile 'com.github.dcf82:Weather:1.0.0'
 }

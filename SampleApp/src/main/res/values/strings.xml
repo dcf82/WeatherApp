@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample App</string>
+    <string name="action_map">Map View</string>
+    <string name="action_weather">Weather View</string>
+    <string name="action_move">User Location</string>
+    <string name="action_refresh">Update Info</string>
+    <string name="title_activity_main">Weather</string>
+</resources>

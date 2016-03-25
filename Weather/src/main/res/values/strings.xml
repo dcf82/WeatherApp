@@ -1,0 +1,7 @@
+<resources>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="network_error">Please verify your network &amp; try again.</string>
+    <string name="enable_location_services">You need to enable location services, Do you want to do it?</string>
+    <string name="enable_loc_services">Please give permissions to enable the app to use your current location.</string>
+</resources>
